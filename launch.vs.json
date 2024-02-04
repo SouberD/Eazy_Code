@@ -1,0 +1,16 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Assigment_1.2.exe",
+      "name": "Assigment_1.2.exe",
+      "args": [
+        "r",
+        "INPUT1_Hello.sof"
+      ]
+    }
+  ]
+}

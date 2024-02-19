@@ -1,0 +1,13 @@
+
+
+
+State\Classes	0	1	2	3	4	5	Type
+	L(A-Z)	D(0-9)	U(_)	B1[(]	Q(‘)	O	
+S0	1	      6 	  ES	  ES	  ES	  4	  Letter
+S1	1	      1	    1	    2	    3	    3	  Letter
+S2	FS	    FS	  FS	  FS	  FS	  FS	Function/Variable
+S3	FS	    FS	  FS	  FS	  FS	  FS	Function/Variable
+S4	4	      4	    4	    4	    5	    4	  Function/Variable
+S5	FS	    FS	  FS	  FS	  FS	  FS	Digit
+S6	7	      6	    7	    7	    7	    7	  Underscore
+S7	FS	    FS	  FS	  FS	  FS	  FS	Other Char

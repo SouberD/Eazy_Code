@@ -1,0 +1,9 @@
+# Eazy Example (Volume of a sphere) #
+main() {
+	PI, r, Vol;
+
+	PI = 3.14;
+	pin(r);
+	Vol = 4.0 / 3.0 * PI * (r * r * r);
+	pout(Vol);
+}
